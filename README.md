@@ -1,8 +1,10 @@
 # PPT Template Mimic
 
+![照着公司模板，做新的 PPT。](assets/social-preview.png)
+
 把 **Opus 提炼的 PPT 复刻方法**与 **pptx-automizer** 结合：先分析已有模板的视觉规则，再复用原页填入新内容，输出可编辑的 PPTX。
 
-这是可直接运行的命令行工具和 JavaScript 代码库。它不包含 WorkBuddy 专家包、专家配置或平台头像，也不调用或内置 Opus 模型。Opus 部分体现为 [制稿方法](docs/method.md) 和 [代理工作约定](AGENTS.md)；具体文件处理由代码完成。
+这是可直接运行的命令行工具和 JavaScript 代码库。Opus 提炼的经验被整理为 [制稿方法](docs/method.md) 和 [代理工作约定](AGENTS.md)，具体文件处理由代码完成。
 
 ## 快速开始
 
