@@ -1,0 +1,11 @@
+{
+  "source": "reference.pptx",
+  "title": "模板应用示例",
+  "language": "zh-CN",
+  "totalSlides": 3,
+  "slides": [
+    {"sourceSlide": 1, "texts": []},
+    {"sourceSlide": 2, "texts": []},
+    {"sourceSlide": 3, "texts": []}
+  ]
+}
